@@ -1,4 +1,6 @@
-
+html {
+    background-color: purple;
+}
 body {
     margin: 0;
 }
